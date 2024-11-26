@@ -7,16 +7,22 @@ This project implements a generalized dice game where both the user and the comp
   4. Validation of Inputs: Ensures that the dice configurations provided are valid, and guides users when invalid inputs are entered.
   5. Help Table: Displays a probability table for winning based on the dice configurations.
 ## How to Run the Game
-Prerequisites
-Node.js version 14 or later installed.
-TypeScript installed globally (npm install -g typescript).
-Setup
-Clone the repository:
-git clone https://github.com/<your-username>/generalized-dice-game.git
-cd generalized-dice-game
-Install dependencies:
-npm install
-Compile the TypeScript code:
-npx tsc
+### Prerequisites
+1. Node.js version 14 or later installed.
+2. TypeScript installed globally (npm install -g typescript).
+### Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/generalized-dice-game.git
+   cd generalized-dice-game
+   ```
+2. Install dependencies:
+  ```bash
+  npm install
+  ```
+3. Compile the TypeScript code:
+  ```bash
+  npx tsc
+ ```
 
 
