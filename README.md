@@ -12,10 +12,10 @@ This project implements a generalized dice game where both the user and the comp
 2. TypeScript installed globally (npm install -g typescript).
 ### Setup
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/generalized-dice-game.git
-   cd generalized-dice-game
-   ```
+```bash
+  git clone https://github.com/<your-username>/generalized-dice-game.git
+  cd generalized-dice-game
+  ```
 2. Install dependencies:
   ```bash
   npm install
